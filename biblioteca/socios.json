@@ -1,0 +1,20 @@
+[
+    {
+        "id_socio": "1",
+        "nombre": "Ana",
+        "apellido": "Ascua",
+        "fecha_nacimiento": "1995-10-22",
+        "direccion": "Buenos Aires",
+        "correo_electronico": "aasc@mail.com",
+        "telefono": "21231"
+    },
+    {
+        "id_socio": "2",
+        "nombre": "Belen",
+        "apellido": "Mica",
+        "fecha_nacimiento": "1991-12-14",
+        "direccion": "Calle 1234",
+        "correo_electronico": "belen@mail.com",
+        "telefono": "24122"
+    }
+]

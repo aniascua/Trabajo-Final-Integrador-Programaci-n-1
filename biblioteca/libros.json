@@ -1,0 +1,65 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "Scream",
+        "autor": "Campbell",
+        "editorial": "Slasher",
+        "anio_publicacion": 2018,
+        "genero": "Terror",
+        "cantidad_disponible": 201
+    },
+    {
+        "id_libro": 2,
+        "titulo": "Terrifier",
+        "autor": "Clown",
+        "editorial": "Slasher",
+        "anio_publicacion": 2018,
+        "genero": "Terror",
+        "cantidad_disponible": 10
+    },
+    {
+        "id_libro": 3,
+        "titulo": "Halloween",
+        "autor": "Strode",
+        "editorial": "Slasher",
+        "anio_publicacion": 1979,
+        "genero": "Terror",
+        "cantidad_disponible": 30
+    },
+    {
+        "id_libro": 4,
+        "titulo": "Viernes 13",
+        "autor": "Voorhees",
+        "editorial": "Slasher",
+        "anio_publicacion": 1980,
+        "genero": "Terror",
+        "cantidad_disponible": 27
+    },
+    {
+        "id_libro": 5,
+        "titulo": "My Bloody Valentine",
+        "autor": "Mihalka",
+        "editorial": "Slasher",
+        "anio_publicacion": 1981,
+        "genero": "Terror",
+        "cantidad_disponible": 18
+    },
+    {
+        "id_libro": 7,
+        "titulo": "Chucky",
+        "autor": "John",
+        "editorial": "Chucky",
+        "anio_publicacion": 2010,
+        "genero": "Terror",
+        "cantidad_disponible": 4
+    },
+    {
+        "id_libro": 8,
+        "titulo": "You and me",
+        "autor": "Movies",
+        "editorial": "Pelis",
+        "a\u00f1o_publicacion": 2024,
+        "genero": "Comedia",
+        "cantidad_disponible": 10
+    }
+]
