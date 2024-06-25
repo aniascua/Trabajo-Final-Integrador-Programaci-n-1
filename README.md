@@ -8,7 +8,7 @@ Elegí desarrollar una solución de software para gestionar el préstamo y devol
 
 ### Requerimientos del Trabajo Final Integrador TUDW 2024:
 
-1. **Registro de Libros:**
+1. **Registro de Libros 📚**
    - ID de Libro (número único y autoincremental)
    - Título
    - Autor
@@ -17,7 +17,7 @@ Elegí desarrollar una solución de software para gestionar el préstamo y devol
    - Género
    - Cantidad Disponible
 
-2. **Gestión de Socios:**
+2. **Gestión de Socios 🗂️**
    - ID de Socio (número único y autoincremental)
    - Nombre
    - Apellido
@@ -39,19 +39,20 @@ Elegí desarrollar una solución de software para gestionar el préstamo y devol
 
 - **Almacenamiento de Información:** Utilización de archivos JSON para almacenar los datos solicitados.
 - **Interfaces de Usuario Interactivas que Permiten:** 
-  - Registrar, editar y eliminar libros.
-  - Registrar, editar y eliminar socios.
-  - Registrar préstamos y devoluciones.
+  - Registrar, editar y eliminar libros ✅
+  - Registrar, editar y eliminar socios ✅
+  - Registrar préstamos y devoluciones ✅
+  - Búsqueda de libros por título, género, autor y editorial ✅
   - Generar reportes de préstamos y devoluciones por socio, libro y rango de fechas.
 
-### Funcionalidad Extra
+### Funcionalidad Extra 🛸
 
 Como parte del trabajo final, se incluye una funcionalidad extra del software a criterio del alumno/grupo. Esto puede incluir el desarrollo de una interfaz gráfica, consumo de una API externa, implementación de búsquedas avanzadas, o cualquier otra funcionalidad que aporte valor agregado al sistema
-- Funcionalidad elegida: Nueva opción en el menú -> Eliminar todos los libros.
+- Funcionalidad elegida: Nueva opción en el menú -> Eliminar todos los libros ✅
 
 Esta opción le permite al usuario borrar todos los libros de la lista de una sola vez y volver a empezar más rápido por si no quiere borrar los libros de a uno
 
-## Uso del Sistema
+## Uso del Sistema 💻
 Para ejecutar el sistema en tu PC, seguí estos pasos:
 
 1. Cloná el repositorio desde GitHub o GitHub Desktop
